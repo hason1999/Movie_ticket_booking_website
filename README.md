@@ -10,7 +10,7 @@
  - booking movie tickets
  - news
  - movies manager
- Technologies and tools:
+ * Technologies and tools:
  - using programming languages: Python,...
  - framework: Django,
 
