@@ -5,12 +5,12 @@
  1. Nguyen Thi Chien
  2. Nguyen Xuan Nguyet Minh
  3. Tran Ha Son
- * Main Functions of website:
+ --> Main Functions of website:
  Website has a friendly front-end user interface which is available in many different color themes. Website features include on:
  - booking movie tickets
  - news
  - movies manager
- * Technologies and tools:
+ --> Technologies and tools:
  - using programming languages: Python,...
  - framework: Django,
 
