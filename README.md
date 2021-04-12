@@ -8,7 +8,8 @@
  --> Main Functions of website:
  Website has a friendly front-end user interface which is available in many different color themes. Website features include on:
  - booking movie tickets
- - news
+ - View movie details
+ - read news
  - movies manager
  --> Technologies and tools:
  - using programming languages: Python,...
